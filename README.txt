@@ -7,4 +7,4 @@ I did this game when i was in 1st year of license. When i was learning programin
 
 How to lunch the game:
 
-1 - Run the Smae_Game.exe
+1 - Run the Same_Game.exe
